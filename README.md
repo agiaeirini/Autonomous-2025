@@ -25,19 +25,17 @@
 
 Προτεινόμενος Εξοπλισμός
 
-1.	Υλικά Κατασκευής:
 o	Ανακυκλωμένο χαρτί: 0,50 €/τουαλέτα
 o	Σπόροι: 10 €/50 σπόροι
-2.	Τεχνολογία:
 o	OpenBuilds ACRO System (ήδη διαθέσιμο)
-3.	Εργαλεία:
+o	https://www.hellasdigital.gr/go-create/3d-printing/accessories/er20-chuck-collet-spring-collet-for-cnc-milling-lathe-tool-6mm/ 5€
+o	https://www.hellasdigital.gr/go-create/3d-printing/accessories/10pcs-1.3mm-3.175mm-carbide-end-mill-engraving-bits-for-cnc-pcb-rotary-burrs/ 14 €
+o	https://www.hellasdigital.gr/go-create/3d-printing/laser-engraver/12v-3w-high-power-450nm-laser-module-3000mw/ 235 €
+o	https://grobotronics.com/spindle-motor-200w-er11.html 39 €
+https://grobotronics.com/spindle-motor-mount-52mm.html 9 €
 o	Κόφτες και μαχαίρια CNC
 
-Ενδεικτικό Κόστος
 
-•	Υλικά: 50 €
-•	Σπόροι: 10 €
-•	Εργαλεία και αναλώσιμα: 20 € Σύνολο: 80 € (για αρχική παραγωγή 50 μονάδων)
 
 Θεωρητική Προσέγγιση
 Η ιδέα ενσωματώνει πολλαπλές πτυχές καινοτομίας:
